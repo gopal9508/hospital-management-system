@@ -1,4 +1,7 @@
 ﻿# hospital-management-system
+
+ Overview
+The Hospital Management System is a software application designed to streamline and manage hospital operations efficiently. It provides features for managing patient records, appointments, staff details, and billing. This system is built to improve the overall workflow of hospitals and enhance patient care.
 ## Login panel 
 ![img.png](img.png)
 
