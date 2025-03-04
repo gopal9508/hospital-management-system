@@ -1,7 +1,78 @@
 ﻿# hospital-management-system
 
- Overview
-The Hospital Management System is a software application designed to streamline and manage hospital operations efficiently. It provides features for managing patient records, appointments, staff details, and billing. This system is built to improve the overall workflow of hospitals and enhance patient care.
+🏥 Hospital Management System
+
+📌 Overview
+
+The Hospital Management System (HMS) is a web-based or desktop-based software application designed to efficiently manage all aspects of hospital administration, patient records, and staff management. This system enables seamless tracking of patients, employees, hospital infrastructure, and other critical operations.
+
+🚀 Features
+
+✅ Authentication System
+
+User login & registration (Admin, Doctor, Nurse, Receptionist, etc.)
+
+Secure authentication with role-based access
+
+
+✅ Patient Management
+
+Add, edit, update, and delete patient records
+
+Patient discharge details
+
+Medical history tracking
+
+
+✅ Doctor & Employee Management
+
+Employee database (doctors, nurses, admin staff)
+
+Departmental details
+
+Employee work schedule & assignments
+
+
+✅ Hospital Infrastructure
+
+Room allocation (available & occupied rooms)
+
+Department information
+
+
+✅ Ambulance & Emergency Services
+
+Search for available ambulances
+
+Track ambulance services
+
+
+✅ Billing & Payments
+
+Generate patient bills
+
+Manage payment records
+
+
+✅ Reports & Logs
+
+Generate hospital reports
+
+Monitor patient history
+
+User activity logs
+
+
+✅ User Dashboard
+
+Custom dashboard for admin, doctors, and receptionists
+
+Summary of appointments, patients, and hospital statistics
+
+
+✅ Logout System
+
+Secure user logout
 ## Login panel 
 ![img.png](img.png)
 
@@ -10,6 +81,9 @@ The Hospital Management System is a software application designed to streamline 
 ![img_1.png](img_1.png)
 
 ## Add Patient Panal
+
+
+View patient history and medical details.
 ![image](https://github.com/user-attachments/assets/9ad4a4b6-2934-4e8a-a32b-159d95e3b07b)
 
 ## Department Panal
